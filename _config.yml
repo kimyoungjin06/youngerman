@@ -30,13 +30,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Test
-subtitle: test subtitle
+title: Yoo Hana's financial Reports
+subtitle: 당신의 안정적 자산을 위한 투자 제언
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
-  HTML5 UP's sleek, responsive site template Prologue.
-author: Young Jin Kim
-email: kimyoungjin06@gmail.com
+  더 현명한 투자를 위한 지름길, 나에게 적합한 포트폴리오 구성이 필요합니다.
+  미래에셋대우, 대전지점 2팀 유하나선임
+author: Hana Yoo
+email: gksk221@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
